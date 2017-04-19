@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: log4j2
+server:
+  port: 9001
+
+logging:
+  path: ./data/logs
+  level:
+    root: info

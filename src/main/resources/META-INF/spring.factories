@@ -1,0 +1,3 @@
+# Application Listeners
+org.springframework.context.ApplicationListener=\
+org.jz.log4j2.factories.Log4j2MDCListener
